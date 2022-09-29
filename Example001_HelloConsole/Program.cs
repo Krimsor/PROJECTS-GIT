@@ -1,1 +1,1 @@
-﻿Console.WriteLine("2Hello, World!");
+﻿Console.WriteLine("2Hello, World!");//Console - контейнер (хранение переменной), WriteLine - в конце перейти на новую строку.
