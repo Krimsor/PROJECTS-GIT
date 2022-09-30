@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v_suf\\Desktop\\Проект инструкция контроль версий Git\\PROJECTS GIT\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectUniqueName": "D:\\PROJECT C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "projectName": "Example001_HelloConsole",
-      "projectPath": "C:\\Users\\v_suf\\Desktop\\Проект инструкция контроль версий Git\\PROJECTS GIT\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectPath": "D:\\PROJECT C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\v_suf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v_suf\\Desktop\\Проект инструкция контроль версий Git\\PROJECTS GIT\\Examples\\Example001_HelloConsole\\obj\\",
+      "outputPath": "D:\\PROJECT C#\\Examples\\Example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\v_suf\\AppData\\Roaming\\NuGet\\NuGet.Config"

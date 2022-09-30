@@ -1,4 +1,2 @@
-﻿Console.Write("Введите ваше имя ");// Write - Вывод в одну строку
-string username = Console.ReadLine();// string -строка, Readline - Считать строку из терминала.
-Console.Write("Привет, ");
-Console.Write(username);
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
